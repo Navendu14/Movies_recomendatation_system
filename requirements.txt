@@ -41,6 +41,4 @@ tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
 
-git+https://git-lfs.github.com/spec/v1
-oid sha256:b8c65d98e7becad64b2b096c87c9327fb3396d2dbf1945dc29a8b00e67c797fc
-size 1500
+
